@@ -1,6 +1,10 @@
 # netflix_shows_db
 This repo contains solutions to the Database assigments
 
+link to my pitch deck ---  
+
+https://www.canva.com/design/DAGIYfmmEhk/iZm6TPwkrTOJgWWmqbsn_w/edit?utm_content=DAGIYfmmEhk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 I did not encounter any difficulties in importing the neflix shows csv file. I noticed that the colums are well structured but there is no explicitly defined primary key column.
 
